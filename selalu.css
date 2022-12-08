@@ -1,0 +1,108 @@
+body{
+  font-size: large;
+  margin: 0px;
+}
+
+li{
+    margin: 40px;
+    display: inline ;
+    font-size:30px;
+    color:rgb(208, 110, 44);
+    font-family:ALGERIAN;
+}
+
+a:hover{
+    font-family: ALGERIAN;
+    font-weight: bolder;
+    color: skyblue;
+}
+
+nav {
+   background-color: rgb(80, 143, 202);
+   height: 50px;
+   text-align: left;
+   margin-top: 80px;
+}
+
+h1{
+    
+    text-align: center;
+}
+
+h5{
+    text-align:center;
+}
+
+img {
+    float: left;
+    margin: 30px;
+    padding: 4px;
+}
+
+#sejarah img {
+    float:right;
+    margin: 3px;
+    padding: 15px;
+}
+
+#sejarah{
+    margin: 30px 30px 30px 30px;
+    background-color: bisque;
+    border: 1px solid #333;
+    box-shadow: 5px 8px 5px 8px #444 ;
+    padding :0px 10px 0px 10px;
+    overflow: auto;
+}
+
+#geografis{
+    margin: 30px 50px 30px 30px;
+    background-color: bisque;
+    border: 1px solid #333;
+    box-shadow: 5px 8px 5px 8px #444 ;
+    padding :0px 10px 0px 10px;
+    overflow: auto;
+}
+
+#wisata{
+    margin: 30px 30px 30px 30px;
+    background-color: bisque;
+    border: 1px solid #333;
+    box-shadow: 5px 8px 5px 8px #444 ;
+    padding :10px 10px 10px 10px;
+    overflow: auto;
+}
+
+.container{
+  margin: 25px;
+}
+
+.fahdun {    
+    font-size: 30px;
+    background: linear-gradient(#cff09e, #a8dba8, #57c98e, #3b8686, #085c8d);
+    height:400px;
+}
+
+.shadowbox {
+    float: right;
+    margin: 20px;
+    background-color: bisque;
+    border: 0px solid #333;
+    box-shadow: 5px 8px 5px 8px #444 ;
+    padding :1px;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+footer {
+    display: inline;
+    color: darkslategrey;
+}
+
+p {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p::first-letter{color:rgb(31, 7, 213);
+  font-size: xx-large;}
+
